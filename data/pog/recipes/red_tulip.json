@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "red_tulip"
+      },
+      {
+        "item": "bone_meal"
+      }
+    ],
+    "result": {
+      "item": "red_tulip",
+      "count": 2
+    }
+}

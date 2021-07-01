@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "oxeye_daisy"
+      },
+      {
+        "item": "bone_meal"
+      }
+    ],
+    "result": {
+      "item": "oxeye_daisy",
+      "count": 2
+    }
+}

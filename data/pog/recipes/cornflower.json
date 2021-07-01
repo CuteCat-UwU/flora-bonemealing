@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "cornflower"
+      },
+      {
+        "item": "bone_meal"
+      }
+    ],
+    "result": {
+      "item": "cornflower",
+      "count": 2
+    }
+}

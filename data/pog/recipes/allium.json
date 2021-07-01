@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "allium"
+      },
+      {
+        "item": "bone_meal"
+      }
+    ],
+    "result": {
+      "item": "allium",
+      "count": 2
+    }
+}

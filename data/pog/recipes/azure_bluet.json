@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "azure_bluet"
+      },
+      {
+        "item": "bone_meal"
+      }
+    ],
+    "result": {
+      "item": "azure_bluet",
+      "count": 2
+    }
+}
